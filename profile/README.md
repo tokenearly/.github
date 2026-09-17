@@ -8,7 +8,7 @@ Tokenearly is a real-time crypto alert platform for exchange token listings, ann
 
 > Be early on every token listing · 斥候来报，每条公告、快讯和信号你都更早知道 · 모든 토큰 상장을 남보다 먼저
 
-Website [tokenearly.com](https://tokenearly.com) · Dashboard [tokenearly.com/dashboard](https://tokenearly.com/dashboard) · Listings [tokenearly.com/listings](https://tokenearly.com/listings) · Telegram channel [@tokenearly_channel](https://t.me/tokenearly_channel) · Telegram bot [@tokenearly_bot](https://t.me/tokenearly_bot) · Community group [t.me/ismetaverse](https://t.me/ismetaverse)
+Website [tokenearly.com](https://tokenearly.com) · Dashboard [tokenearly.com/dashboard](https://tokenearly.com/dashboard) · Listings [tokenearly.com/listings](https://tokenearly.com/listings) · Telegram channel [@tokenearly_channel](https://t.me/tokenearly_channel) · Telegram bot [@tokenearly_bot](https://t.me/tokenearly_bot) · Telegram support [@tokenearly_app](https://t.me/tokenearly_app)
 
 ## What Tokenearly monitors
 
@@ -72,8 +72,7 @@ The signal-sdk, webhook-examples, n8n-templates and awesome-crypto-listing-alert
 - News archive, 8 sources: https://tokenearly.com/news
 - Telegram channel (official): https://t.me/tokenearly_channel
 - Telegram bot (official): https://t.me/tokenearly_bot
-- Telegram community: https://t.me/ismetaverse
-- Support: Telegram group https://t.me/ismetaverse
+- Telegram support: https://t.me/tokenearly_app
 
 ## FAQ
 
